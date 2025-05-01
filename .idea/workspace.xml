@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c374af87-e76d-4fbd-9083-7d0206cf1356" name="Changes" comment="" />
+    <list default="true" id="c374af87-e76d-4fbd-9083-7d0206cf1356" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/602622e4-7eaf-4d4c-9f5e-543d11ef3ffa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/602622e4-7eaf-4d4c-9f5e-543d11ef3ffa.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/602622e4-7eaf-4d4c-9f5e-543d11ef3ffa/storage_v2/_src_/database/varmazyar1_2.mbZxRg/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/602622e4-7eaf-4d4c-9f5e-543d11ef3ffa/storage_v2/_src_/database/varmazyar1_2.mbZxRg/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries1_2f.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Queries1_2f.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
