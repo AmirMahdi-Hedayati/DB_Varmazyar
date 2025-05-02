@@ -72,7 +72,7 @@ create table game /* todo description */
     guest_goal     smallint,
     host_goal      smallint,
     data           date,
-    time           time,
+    time           time default now(),
     primary key (league_name, season, week_number, number_in_week),
     foreign key (league_name, season, week_number) references week (league_name, season, number),
     foreign key (guest_id) references team (id),
@@ -338,7 +338,7 @@ create table event
     season         smallint    not null,
     week_number    smallint    not null,
     number_in_week smallint    not null,
-    event_time     time        not null,
+    event_time     time        not null default now(),
     primary key (event_id),
     foreign key (league_name, season, week_number, number_in_week) references game (league_name, season, week_number, number_in_week)
 );
